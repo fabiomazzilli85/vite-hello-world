@@ -16,5 +16,6 @@
   h1 {
     font-size: 18px;
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
   }
   </style>
